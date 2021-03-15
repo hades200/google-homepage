@@ -1,12 +1,24 @@
+html,body{
+    height: 99vh;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between ;
+}
+
 #header{
     display: flex;
     justify-content: space-between;
+
 }
     
     
 #footer{
     display: flex;
     justify-content: space-between;
+    background-color: rgb(231, 229, 229);
+    
 }
 
 #center{
@@ -14,5 +26,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}
 
+}
+img{
+    height: 10vh;
+}
