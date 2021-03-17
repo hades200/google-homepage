@@ -17,8 +17,7 @@ body{
 #footer{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(231, 229, 229);
-    
+    background-color: rgb(235, 231, 231);
 }
 
 #center{
